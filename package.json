@@ -1,0 +1,11 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js#6551/head",
+    "dotenv": "^10.0.0",
+    "jest": "^27.1.1"
+  }
+}
